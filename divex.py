@@ -1,0 +1,10 @@
+print("program execution started")
+s1=input("\tEnter first value:")
+s2=input("\tEnter second value:")
+a=float(s1)
+b=float(s2)
+print("\tval of a=",a)
+print("\tval of b=",b)
+c=a/b
+print("\tDiv=",c)
+print("program execution Ended")
